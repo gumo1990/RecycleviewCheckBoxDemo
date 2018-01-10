@@ -24,7 +24,6 @@ public class MineRadioAdapter extends RecyclerView.Adapter<MineRadioAdapter.View
 
     private static final int MYLIVE_MODE_CHECK = 0;
     int mEditMode = MYLIVE_MODE_CHECK;
-
     private int secret = 0;
     private String title = "";
     private Context context;
