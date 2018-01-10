@@ -29,7 +29,6 @@ public class MineRadioAdapter extends RecyclerView.Adapter<MineRadioAdapter.View
     private Context context;
     private List<MyLiveList> mMyLiveList;
     private OnItemClickListener mOnItemClickListener;
-
     public MineRadioAdapter(Context context) {
         this.context = context;
     }
